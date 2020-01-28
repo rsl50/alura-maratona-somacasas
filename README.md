@@ -26,7 +26,7 @@ Sabendo disto, encontre qual é o par de casas em que se encontram os brinquedos
 
 **Entrada**
 
-A primeira primeira linha da entrada contém um número inteiro *N*, que representa o número de casas que existem na rua. Cada uma das Nlinhas seguintes contém um número inteiro, representando o número de uma casa. Note que esses *N* números estão ordenados, do menor para o maior. A última linha da entrada contém um inteiro *K*, que é a soma dos números das duas casas onde os brinquedos estão escondidos.
+A primeira primeira linha da entrada contém um número inteiro *N*, que representa o número de casas que existem na rua. Cada uma das *N* linhas seguintes contém um número inteiro, representando o número de uma casa. Note que esses *N* números estão ordenados, do menor para o maior. A última linha da entrada contém um inteiro *K*, que é a soma dos números das duas casas onde os brinquedos estão escondidos.
 
 
 **Saída**
@@ -40,7 +40,9 @@ Em um conjunto de casos que totaliza 30 pontos, N ≤ 103.
 
 **Restrições**
 > 2 ≤ N ≤ 10^5
+
 > Para cada casa Ci, 0 ≤ Ci ≤ 10^9, i = 1, 2, ... , N
+
 > Os números das casas estão em ordem crescente, do menor para o maior número, e casas distintas têm números distintos.
 
 
